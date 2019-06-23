@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\bin\Debug\JenkinDotNetSample.exe.config
+C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\bin\Debug\JenkinDotNetSample.exe
+C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\bin\Debug\JenkinDotNetSample.pdb
+C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.Properties.Resources.resources
+C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.exe
+C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.pdb
