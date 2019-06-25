@@ -7,3 +7,19 @@ C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\obj\Deb
 C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.csproj.GenerateResource.Cache
 C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.exe
 C:\Users\Lenovo\Documents\visual studio 2015\Projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.pdb
+C:\Atef\projects\JenkinDotNetSample\bin\Debug\JenkinDotNetSample.exe.config
+C:\Atef\projects\JenkinDotNetSample\bin\Debug\JenkinDotNetSample.exe
+C:\Atef\projects\JenkinDotNetSample\bin\Debug\JenkinDotNetSample.pdb
+C:\Atef\projects\JenkinDotNetSample\bin\Debug\mscorlib.dll
+C:\Atef\projects\JenkinDotNetSample\bin\Debug\ar\mscorlib.resources.dll
+C:\Atef\projects\JenkinDotNetSample\bin\Debug\normidna.nlp
+C:\Atef\projects\JenkinDotNetSample\bin\Debug\normnfc.nlp
+C:\Atef\projects\JenkinDotNetSample\bin\Debug\normnfd.nlp
+C:\Atef\projects\JenkinDotNetSample\bin\Debug\normnfkc.nlp
+C:\Atef\projects\JenkinDotNetSample\bin\Debug\normnfkd.nlp
+C:\Atef\projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.csprojResolveAssemblyReference.cache
+C:\Atef\projects\JenkinDotNetSample\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Atef\projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.Properties.Resources.resources
+C:\Atef\projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.csproj.GenerateResource.Cache
+C:\Atef\projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.exe
+C:\Atef\projects\JenkinDotNetSample\obj\Debug\JenkinDotNetSample.pdb
